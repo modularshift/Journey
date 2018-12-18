@@ -1,0 +1,51 @@
+#News
+
+-Hacktivity
+
+#1. Recon
+
+    Pastebin Dump collection
+    DNS Dumpster - https://dnsdumpster.com/
+    Sublist3r - https://github.com/aboul3la/Sublist3r
+    2. Penetration Testing
+
+##2.1 Linux
+Privillege escalation
+
+    https://blackwintersecurity.com/
+    LinEnum
+    ##PrivChecker.py
+    https://www.rebootuser.com/?p=1623
+
+##2.2 Web application hacking
+
+    Web application hacker's handbook, Dafydd Stuttard
+    Hackerone Video Series 
+
+Infrastructure & Networking
+
+    Subnetting explained
+
+Frameworks
+
+    http://www.pentest-standard.org/
+
+#2. Lists
+
+    https://github.com/Hack-with-Github/Awesome-Hacking
+    https://0x00sec.org/t/knowledge-is-free/6270
+
+#Cheatsheets
+OSCP
+
+https://github.com/frizb/OSCP-Survival-Guide
+
+https://0daylego.wordpress.com/2017/04/29/scripting-my-way-through-the-oscp-labs/
+Hardware
+
+https://0x00sec.org/t/your-complete-un-budgeted-toolkit-wiki/2192
+##X.1 RadioFrequencies
+
+    https://github.com/cn0xroot/RFSec-ToolKit
+
+
